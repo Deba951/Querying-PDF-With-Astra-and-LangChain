@@ -1,17 +1,20 @@
 # **Question-Answering with Astra DB and LangChain: A Vector Search Demo**
 
 ## **Overview**
-
 This project demonstrates how to build a question-answering (QA) system using LangChain, OpenAI, and Astra DB. The system processes a PDF document, stores its content in a vector database, and allows interactive querying to retrieve relevant information.
+
+
+<img width="1472" alt="Untitled" src="https://github.com/Deba951/Querying-PDF-With-Astra-and-LangChain/assets/83878346/5d2c656d-01c1-4a71-bb62-d251ec6cc27b">
+
 
 ## **Introduction**
 This project aims to create an efficient QA system by leveraging advanced NLP (Natural Language Processing) techniques. It uses:
 - LangChain: A framework for building applications with large language models (LLMs).
-- OpenAI: Provides the language models and embeddings to process and understand the text.
+- OpenAI: Provides language models and embeddings to process and understand the text.
 - Astra DB: A scalable, cloud-native database that stores and retrieves text chunks as vectors.
 
 
-## Prerequisites
+## **Prerequisites**
 To run this demo, ensure you have the following:
 1. Serverless Cassandra with Vector Search Database on Astra DB:
        ```
