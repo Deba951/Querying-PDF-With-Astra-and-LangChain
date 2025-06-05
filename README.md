@@ -21,7 +21,7 @@ To run this demo, ensure you have the following:
         https://accounts.datastax.com/session-service/v1/login
        ```
     - Obtain a DB Token with the role of Database Administrator.
-    - Copy your Database ID. These connection parameters will be required shortly.
+    - Copy your Database ID. These connection parameters will be required.
     - For detailed instructions, refer here:
            ```
             https://docs.datastax.com/en/astra-db-serverless/get-started/quickstart.html#_prepare_for_using_your_vector_database
