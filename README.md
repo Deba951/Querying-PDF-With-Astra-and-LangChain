@@ -38,7 +38,6 @@ To run this demo, ensure you have the following:
 - OpenAI: Provides the GPT models used for embeddings and language understanding.
 - Astra DB: Cloud-native database service by DataStax.
 - PyPDF2: Library for reading PDF files.
-- Datasets: Hugging Face library for loading and processing datasets.
 
 
 ## **Abbreviations and Definitions**
